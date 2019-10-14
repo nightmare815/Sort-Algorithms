@@ -2,6 +2,11 @@ package com.bin.sort;
 
 import java.util.Random;
 
+/**
+ * 快速排序
+ * @author tianbin
+ *
+ */
 public class QuickSort {
 
 	//测试的随机数组的长度
